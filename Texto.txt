@@ -1,1 +1,2 @@
 Esta es la primera linea de código de mi archivo de texto.
+Esta es una nueva línea de código para el segundo commit.
